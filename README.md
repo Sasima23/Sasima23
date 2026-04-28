@@ -17,4 +17,4 @@
 - Coming soon...
 
 ## 📫 Contact
-- Email: yourmail@gmail.com
+- Email: sasimaparvin23@gmail.com
