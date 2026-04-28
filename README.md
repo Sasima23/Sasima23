@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Sasima
 
-<!--
-**Sasima23/Sasima23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Developer | AI Enthusiast | Automation Builder
 
-Here are some ideas to get you started:
+## 🔥 About Me
+- 💻 I love building real-world projects
+- 🤖 Interested in AI & Automation
+- 📚 Currently learning coding
+- 🎯 Goal: Become a professional developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- JavaScript
+- Git & GitHub
+
+## 🚀 Projects
+- Coming soon...
+
+## 📫 Contact
+- Email: yourmail@gmail.com
