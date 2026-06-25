@@ -10,6 +10,7 @@
 
 ## 🛠️ Skills
 - Python
+- SQL
 - JavaScript
 - Git & GitHub
 
