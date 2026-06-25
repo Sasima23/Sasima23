@@ -54,8 +54,7 @@ A role-based application to monitor antibiotic usage in livestock.
 - Implemented role-based access
 - Developed tracking & alert features
 
-**Tech Stack:** (add your tech here — e.g. Java / Node / DB)
-- Coming soon...
+**Tech Stack:** Python with flask API ,MongoDB
 
 ## 📫 Contact
 - Email: sasimaparvin23@gmail.com
