@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sasima
 
-🚀 Aspiring Developer | AI Enthusiast | Automation Builder
+🚀 Aspiring Developer | Full Stack | Python Developer
 
 ## 🔥 About Me
 - 💻 I love building real-world projects
@@ -11,11 +11,13 @@
 ## 🛠️ Skills
 - Python
 - SQL
+- React
+- Frontend
 - JavaScript
 - Git & GitHub
 
 ## 🚀 Projects
-## 🚀 Projects
+
 
 ### 🌦️ Weather Dashboard (MERN Stack)
 A full-stack weather application built using the MERN stack that provides real-time weather data.
